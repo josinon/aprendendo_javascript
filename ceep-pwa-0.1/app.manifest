@@ -1,0 +1,28 @@
+{
+  "name": "Ceep",
+  "start_url": "./",
+  "display": "standalone",  
+  "icons": [{
+    "src": "img/caelum-logo-128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "img/caelum-logo-152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "img/caelum-logo-144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "img/caelum-logo-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }, {
+    "src": "img/caelum-logo-256.png",
+    "type": "image/png",
+    "sizes": "256x256"
+  }
+  
+  ]
+}
